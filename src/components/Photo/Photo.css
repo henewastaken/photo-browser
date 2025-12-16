@@ -1,0 +1,9 @@
+.photo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  Button {
+    background: none;
+    border: none;
+  }
+}
